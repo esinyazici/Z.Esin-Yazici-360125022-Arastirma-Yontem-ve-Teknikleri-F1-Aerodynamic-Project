@@ -1,1 +1,3 @@
-# Z.Esin-Yazici-360125022-Arastirma-Yontem-ve-Teknikleri-F1-Aerodynamic-Project
+Konu: F1 Aerodinamiğinde ikilem
+İsim: Zeynep Esin Yazıcı
+Tarih: 22.12.2025
